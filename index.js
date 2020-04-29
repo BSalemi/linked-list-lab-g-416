@@ -8,5 +8,5 @@ function getName(node){
 }
 
 function headNode(linkedList, collection){
-  return linkedList.head
+  return collection[linkedList]
 }
