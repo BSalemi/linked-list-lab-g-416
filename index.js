@@ -13,6 +13,6 @@ function headNode(linkedList, collection){
 
 function next(node){
   let nextNode = node.next;
-  console.log(nextNode)
-  return collection.nextNode;
+
+  return collection[`${nextNode}`];
 }
