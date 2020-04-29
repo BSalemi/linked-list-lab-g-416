@@ -4,5 +4,5 @@ let collection = {randnm: {name: 'Alexandra', next: 'masjdrandm'},
 }
 
 function getName(node){
-  return node[name]
+  return node.name
 }
