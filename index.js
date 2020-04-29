@@ -22,3 +22,4 @@ function nodeAt(index, linkedList, collection){
   for(let i = 0; i < index; i++){
      currentNode = next(currentNode, collection);
   }
+}
