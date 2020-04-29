@@ -16,3 +16,7 @@ function next(node, collection){
 
   return collection[`${nextNode}`];
 }
+
+function nodeAt(index, linkedList, collection){
+  
+}
