@@ -12,5 +12,6 @@ function headNode(linkedList, collection){
 }
 
 function next(node){
-  return node.next
+  let nextNode = node.next;
+  return collection[nextNode]l
 }
