@@ -6,3 +6,7 @@ let collection = {randnm: {name: 'Alexandra', next: 'masjdrandm'},
 function getName(node){
   return node.name
 }
+
+function headNode(linkedList, collection){
+
+}
