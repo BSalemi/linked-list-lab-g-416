@@ -18,5 +18,5 @@ function next(node, collection){
 }
 
 function nodeAt(index, linkedList, collection){
-  
+
 }
